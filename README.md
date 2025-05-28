@@ -4,7 +4,9 @@
 **IoT-Based Manhole Detection and Monitoring System**
 
 ## Team Members
-- **Madasai Kiran** 
+- **Madasai Kiran**
+- **Mallarappu Maheshwari**   
+- **Bayyanagari Maina** 
 
 ## Guide
 **Dr. K. Kamakshaiah**
